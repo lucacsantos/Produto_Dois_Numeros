@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\bin\Debug\netcoreapp3.1\ProdutoDoisNumeros.exe
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\bin\Debug\netcoreapp3.1\ProdutoDoisNumeros.deps.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\bin\Debug\netcoreapp3.1\ProdutoDoisNumeros.runtimeconfig.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\bin\Debug\netcoreapp3.1\ProdutoDoisNumeros.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\bin\Debug\netcoreapp3.1\ProdutoDoisNumeros.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\bin\Debug\netcoreapp3.1\ProdutoDoisNumeros.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.dll
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.pdb
+C:\Users\Acer\Desktop\Estudos\questoes_cSharp\ProdutoDoisNumeros\ProdutoDoisNumeros\obj\Debug\netcoreapp3.1\ProdutoDoisNumeros.genruntimeconfig.cache
